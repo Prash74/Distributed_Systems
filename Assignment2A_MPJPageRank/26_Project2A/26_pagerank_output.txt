@@ -1,0 +1,14 @@
+MPJ Express (0.38) is started in the multicore configuration
+Picked up _JAVA_OPTIONS: -Xms512m -Xmx512m
+I/O Time: 0.206
+Job Execution Time: 0.421
+Link: 10		PR Value: 0.09486740923368685
+Link: 0		PR Value: 0.07762038494622278
+Link: 28		PR Value: 0.0756789150703395
+Link: 4		PR Value: 0.07530036499362075
+Link: 34		PR Value: 0.035330409976054834
+Link: 256		PR Value: 0.027954805515867605
+Link: 134		PR Value: 0.025562889602343323
+Link: 38		PR Value: 0.02214731669166356
+Link: 14		PR Value: 0.020386315713293673
+Link: 68		PR Value: 0.01916566798476589
